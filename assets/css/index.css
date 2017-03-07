@@ -22,14 +22,16 @@ body {
 h1 {
 	text-align: center;
 	font-size: 5em;
+	color: black;
 	text-shadow: 1px 1px #ffffff;
 }
 h2 {
 	text-align: center;
 	font-size: 3em;
+	color: black;
 	text-shadow: 0.5px 0.5px #ffffff;
 }
 .home {
-	background: rgba(50,50,50,0.3);
+	background: rgba(50,50,50,0.2);
 	margin: 200px 0;
 }
